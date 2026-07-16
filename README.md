@@ -7,7 +7,7 @@ https://www.curseforge.com/minecraft-bedrock/addons/veinminer-add-on-by-purerain
 
 # Natural Disaster Minigame  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a3cbd692-d829-4a6a-9853-e7829a9583da" />  
-Link: https://www.minecraft.net/en-us/marketplace/pdp/next-studio/natural-disaster-minigame/c4b0631f-0d05-4c60-9838-8428622bf4fd  
+https://www.minecraft.net/en-us/marketplace/pdp/next-studio/natural-disaster-minigame/c4b0631f-0d05-4c60-9838-8428622bf4fd  
 
 # Cats Party  
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/2a0a57cd-51a7-449b-b15e-fc1729e56963" />
