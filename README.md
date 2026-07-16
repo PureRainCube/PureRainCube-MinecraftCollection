@@ -2,7 +2,7 @@
 PureRainCube-MinecraftCollection
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e162394c-c3b5-4757-b195-079dcf820a48" />
-VeinMiner Add-On By PureRainCube  
+VeinMiner Add-On By PureRainCube   
 https://www.curseforge.com/minecraft-bedrock/addons/veinminer-add-on-by-pureraincube  
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a3cbd692-d829-4a6a-9853-e7829a9583da" />  
