@@ -1,6 +1,10 @@
 # PureRainCube-MinecraftCollection
 PureRainCube-MinecraftCollection
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e162394c-c3b5-4757-b195-079dcf820a48" />
+VeinMiner Add-On By PureRainCube  
+https://www.curseforge.com/minecraft-bedrock/addons/veinminer-add-on-by-pureraincube  
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a3cbd692-d829-4a6a-9853-e7829a9583da" />  
 
 Natural Disaster Minigame  
@@ -15,3 +19,4 @@ https://www.minecraft.net/en-us/marketplace/pdp/next-studio/cats-party/1d46613f-
 
 Creepypasta+  
 https://www.minecraft.net/en-us/marketplace/pdp/next-studio/creepypasta+/76c52eaf-9344-4ea6-aa8d-072a6f7e339e  
+
